@@ -1,4 +1,4 @@
-# Hola Everyone, I'm Mehul Singh Teya 
+# Hola Everyone, I'm Mehul Singh Teya 👋
 
 I am a CSE Undergrad at Thapar University, Patiala. Hardworking, aspiring & a creative thinker, who loves to code to solve problems. Currently finding new ways to confuse myself. I love to make projects. I love cli & I live in Linux.
 
