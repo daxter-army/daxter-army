@@ -1,4 +1,4 @@
-# Hola Everyone, I'm Mehul Singh Teya <img src='./wavingEmoji.gif' width='40'>
+# Hola Everyone, I'm Mehul Singh Teya <img src='https://raw.githubusercontent.com/daxter-army/daxter-army.github.io/master/static/img/wavingEmoji.gif' width='40'>
 
 I am a CSE Undergrad at Thapar University, Patiala. Hardworking, aspiring & a creative thinker, who loves to code to solve problems. Currently finding new ways to confuse myself. I love to make projects. I love cli & I live in Linux.
 
