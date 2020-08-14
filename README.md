@@ -1,6 +1,4 @@
-# Hola Everyone, I'm Mehul Singh Teya
-
-<div class="tenor-gif-embed" data-postid="11366012" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012">Waving Hi GIF</a> from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# Hola Everyone, I'm Mehul Singh Teya 👋
 
 I am a CSE Undergrad at Thapar University, Patiala. Hardworking, aspiring & a creative thinker, who loves to code to solve problems. Currently finding new ways to confuse myself. I love to make projects. I love cli & I live in Linux.
 
