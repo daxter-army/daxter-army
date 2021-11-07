@@ -1,45 +1,23 @@
-
-
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 10">
   <defs>
     <style>
       .cls-1 {
         fill: #f1c40f;
-        border-radius-top-left: 5px;
-        border-radius-top-right: 5px;
         animation: breath 4s infinite;
       }
-
       @keyframes breath {
-          0% {
-            fill: #f1c40f;
-          }
-
-          20% {
-            fill: #e67e22;
-          }
-
-          40% {
-            fill: #e74c3c;
-          }
-
-          60% {
-            fill: #9b59b6;
-          }
-
-          80% {
-                fill: #3498db;
-          }
-
-          100% {
-            fill: #f1c40f;
-          }
+          0% { fill: #f1c40f; }
+          20% { fill: #e67e22; }
+          40% { fill: #e74c3c; }
+          60% { fill: #9b59b6; }
+          80% { fill: #3498db; }
+          100% { fill: #f1c40f; }
       }
     </style>
   </defs>
   <g id="Layer_2" data-name="Layer 2">
     <g id="Layer_1-2" data-name="Layer 1">
-      <rect class="cls-1" width="595.28" height="4" />
+      <rect class="cls-1" width="595.28" height="5" />
     </g>
   </g>
 </svg>
