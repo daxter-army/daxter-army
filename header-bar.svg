@@ -4,8 +4,6 @@
     <style>
       .cls-1 {
         fill: #f1c40f;
-        border-radius-top-left: 5px;
-        border-radius-top-right: 5px;
         animation: breath 4s infinite;
       }
 
