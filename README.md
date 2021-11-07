@@ -1,3 +1,5 @@
+<img src="./header-bar.svg" alt="animated-header-bar" />
+
 # Hello Everyone, I'm Mehul Singh Teya <img src='https://raw.githubusercontent.com/daxter-army/daxter-army.github.io/master/static/img/wavingEmoji.gif' onload="alert(1);" width='38'>
 
 I am a Final Year CSE Undergrad at Thapar University, Patiala.A creative thinker, who loves to code to solve problems. Currently finding new ways to confuse myself. I love to make projects.
