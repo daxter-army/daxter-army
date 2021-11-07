@@ -7,4 +7,4 @@ I am a Final Year CSE Undergrad at Thapar University, Patiala.A creative thinker
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daxter-army&theme=buefy&layout=compact)
 
 ## Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mehul-singh-teya-555648156/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mehulsinghteya/)
