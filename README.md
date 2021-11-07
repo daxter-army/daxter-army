@@ -5,6 +5,7 @@ I am a CSE Undergrad at Thapar University, Patiala. Hardworking, aspiring & a cr
 ## Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mehul-singh-teya-555648156/)
+![](https://komarev.com/ghpvc/?username=daxter-army&color=blue)
 
 ![Mehul's Github Stats](https://github-readme-stats.vercel.app/api?username=daxter-army&show_icons=true&theme=buefy)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daxter-army&theme=buefy&layout=compact)
