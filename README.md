@@ -1,6 +1,6 @@
 <img src="./header-bar.svg" alt="animated-header-bar" />
 
-## Hello Everyone, I'm Mehul Singh Teya
+# Hello Everyone, I'm Mehul Singh Teya
 
 I am a Final Year CSE Undergrad at Thapar University, Patiala. A creative thinker, who loves to code to solve problems. Currently finding new ways to confuse myself. I love to make projects.
 <br/><br/>
