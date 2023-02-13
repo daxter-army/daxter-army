@@ -2,7 +2,7 @@
 
 # Hello Everyone, I'm Mehul Singh Teya
 
-I am a Final Year CSE Undergrad at Thapar University, Patiala. A creative thinker, who loves to code to solve problems. Currently finding new ways to confuse myself. I love to make projects.
+I am a Software Engineer, working as a Professional in India. A creative thinker, who loves to code to solve problems. Currently finding new ways to confuse myself. I love to make projects.
 <br/><br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daxter-army&theme=buefy&layout=compact)
